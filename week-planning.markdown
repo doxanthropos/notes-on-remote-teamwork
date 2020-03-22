@@ -16,9 +16,9 @@ As this time is likely to have some downtime, because there is no laptop install
 ### Mail on Sunday
 
 Each week starts on Sunday with a general overview on what will happen during the week, what will be epxected, what we will be doing.
-As long as there are still people coming into the office, this must include clear information on who will be in the office and is is expected to stay at home.
+As long as there are still people coming into the office, this must include clear information on who will be in the office and who is expected to stay at home.
 The process of how we will work during the week will be explained, not ony once, but every time in this mail.
-General advie aboout working from home or even health topics that can be related to workiong from home can be included here.
+General advice aboout working from home or even health topics that can be related to working from home can be included here.
 
 ### Team Meetings and individual meetings
 
