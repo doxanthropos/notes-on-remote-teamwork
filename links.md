@@ -9,5 +9,8 @@ title: Links to some resources
 
 - [Home Workout from Arnie](https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit/)
 - [MovNat: Natural Movement Workouts](https://www.movnat.com/covid-19-response-maps/)
-- []()
+
+## Health Tips
+
+- [Depressionen und Corona](https://belletristica.com/de/books/22251-depressionen-und-corona)
 
