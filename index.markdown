@@ -10,3 +10,4 @@ I set it up here because GH is a good way to version text files and share them b
 ## Some Pages
 
 - [Week Planning](week-planning)
+- [Links to some resources](links)
