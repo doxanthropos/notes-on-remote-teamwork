@@ -8,3 +8,6 @@ title: Links to some resources
 ## Fitness Tips
 
 - [Home Workout from Arnie](https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit/)
+- [MovNat: Natural Movement Workouts](https://www.movnat.com/covid-19-response-maps/)
+- []()
+
