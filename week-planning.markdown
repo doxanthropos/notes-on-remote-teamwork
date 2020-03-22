@@ -27,4 +27,4 @@ General advice aboout working from home or even health topics that can be relate
 ### Team Meetings and individual meetings
 
 To keep up the social connection that we have from working together in the office, a short live meeting each day could be a good idea.
-The same goes for individual meetings. As a team coordinator, I would like to be aware of the psychological condition of my team, so I can treat them according to their needs and strengths and do not overwhelm someone in this scary time. So I will plan an indiviual meeting with each team member per week.
+The same goes for individual meetings. As a team coordinator, I would like to be aware of the psychological condition of my team, so I can treat them according to their needs and strengths and do not overwhelm someone in this scary time. So I will plan an indiviual meeting with each team member per week. Two important questions to talk about: Are you OK? (If not: What can I do to help or at least not make it worse?), What do you need from me in this week? (more/less structure etc.)
