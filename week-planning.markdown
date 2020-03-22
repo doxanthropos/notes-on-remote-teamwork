@@ -1,3 +1,7 @@
+---
+title: Weekly Planning
+---
+
 # Week Planning
 
 ## Planning the week
